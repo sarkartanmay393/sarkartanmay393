@@ -12,4 +12,7 @@
   
  </h3>
  
+ ![](https://komarev.com/ghpvc/?username=sarkartanmay393&color=orange)
+
+ 
  <h2 align='center'><i>Figuring out the Purpose of Me 🐣</i></h2>
