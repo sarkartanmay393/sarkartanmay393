@@ -8,7 +8,9 @@
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sarkartanmay393)  &nbsp; 
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/tanmaysrkr/)  &nbsp; 
   [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/tanmaysrkr/)  &nbsp; 
-  [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/tanmaysarkar)  &nbsp; 
+  [<img src="https://img.icons8.com/color/48/000000/youtube-play.png" width="3.5%"/>](https://www.youtube.com/tanmaysarkar)  &nbsp;
+  [<img rel=“me“ src="https://img.icons8.com/color/48/000000/cloud.png" width="3.5%"/>](https://cloud-native.social/@tanmaysarkar)  &nbsp; 
+
   
  </h3>
  
